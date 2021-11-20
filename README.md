@@ -5,11 +5,11 @@ Desarrollada con fines educativos y demostrativos.
 
 | Inicio | 
 | :-:   | 
-| ![Inicio](resources/foto1.png "Inicio") |
+| ![Inicio](https://github.com/NRamosD/MyPhotographyPage/blob/master/resources/foto1.PNG "Inicio") |
 
-| Login | Home |
+| Galería | Foto Seleccionada |
 | :-:   | :-: | 
-| ![Login](resources/foto2.png "Login") | ![Home](resources/foto3.png "Login") |
+| ![Galería](https://github.com/NRamosD/MyPhotographyPage/blob/master/resources/foto2.PNG "Galería") | ![Foto Seleccionada](https://github.com/NRamosD/MyPhotographyPage/blob/master/resources/foto1.PNG "Galería") |
 
 Descarga el proyecto para apreciar sus detalles en totalidad.
 
