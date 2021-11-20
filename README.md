@@ -5,11 +5,11 @@ Desarrollada con fines educativos y demostrativos.
 
 | Inicio | 
 | :-:   | 
-| ![Inicio](resources/foto1.png "inicio") |
+| ![Inicio](resources/foto1.png "Inicio") |
 
-| Galería | 
+| Login | Home |
 | :-:   | :-: | 
-| ![frase](resources/foto2.png "frase") | ![show](resources/foto3.png "show") |
+| ![Login](resources/foto2.png "Login") | ![Home](resources/foto3.png "Login") |
 
 Descarga el proyecto para apreciar sus detalles en totalidad.
 
