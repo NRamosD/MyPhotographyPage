@@ -9,7 +9,7 @@ Desarrollada con fines educativos y demostrativos.
 
 | Galería | Foto Seleccionada |
 | :-:   | :-: | 
-| ![Galería](https://github.com/NRamosD/MyPhotographyPage/blob/master/resources/foto2.PNG "Galería") | ![Foto Seleccionada](https://github.com/NRamosD/MyPhotographyPage/blob/master/resources/foto1.PNG "Galería") |
+| ![Galería](https://github.com/NRamosD/MyPhotographyPage/blob/master/resources/foto2.PNG "Galería") | ![Foto Seleccionada](https://github.com/NRamosD/MyPhotographyPage/blob/master/resources/foto3.PNG "Galería") |
 
 Descarga el proyecto para apreciar sus detalles en totalidad.
 
